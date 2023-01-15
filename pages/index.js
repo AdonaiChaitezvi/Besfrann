@@ -34,15 +34,15 @@ const callGenerateEndpoint = async () => {
   return (
     <div className="root">
       <Head>
-        <title>BessFrann</title>
+        <title>Zwa</title>
       </Head>
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Botswana's Ai!</h1>
+            <h1>Hello Bitches! Im a robot</h1>
           </div>
           <div className="header-subtitle">
-            <h2>chil! whatever you needor whoever you need. im that bitch. purrr</h2>
+            <h2>chil! whatever you need or whoever you need. im that bitch. purrr</h2>
           </div>
         </div>
         <div className="prompt-container">
